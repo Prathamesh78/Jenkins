@@ -7,8 +7,10 @@ Jenkins stands as a pivotal open-source build orchestration tool within the real
 ### 1. Launch AWS Ubuntu EC2 Instances
 
 - Launch 2 Linux based EC2 instances: Jenkins_Master and Jenkins_Slave.
+  
   [Launch Instance](https://github.com/Prathamesh78/AWS/tree/main/EC2)
 - Make sure to enable inbound traffic on port 8080 for Jenkins.
+  
   [Security Group Configuration](https://github.com/Prathamesh78/AWS/tree/main/Security%20Groups)
 
 ### 2. Connect to EC2 Instances
