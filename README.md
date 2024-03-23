@@ -29,6 +29,8 @@ Jenkins stands as a pivotal open-source build orchestration tool within the real
     sudo apt install openjdk-17-jre -y
     java -version
   ```
+  ![image](https://github.com/Prathamesh78/Jenkins/assets/104883046/b2aff5fc-ba89-4af1-8716-6a957206528e)
+
 
 - Install Jenkins on Linux based EC2 Instance
   ```bash
@@ -42,12 +44,17 @@ Jenkins stands as a pivotal open-source build orchestration tool within the real
     sudo apt-get update -y
     sudo apt-get install jenkins -y
   ```
+  ![image](https://github.com/Prathamesh78/Jenkins/assets/104883046/5ce65c21-770c-4637-9573-21d0f1c25307)
 
 - Install Git on Linux based EC2 Instance
   ```bash
     sudo apt install git -y
   ```
+  ![image](https://github.com/Prathamesh78/Jenkins/assets/104883046/933d76e0-0f50-4379-afa3-8a97ff6c03fd)
+
 - Access the Jenkins
   - Jenkins is installed in the directory: '/var/lib/jenkins'
   - Access Jenkins using a web browser:
     - URL: http://<public_ip_address>:8080
+  ![image](https://github.com/Prathamesh78/Jenkins/assets/104883046/38ea31c3-8cbe-47fa-9c53-21eff9397bb0)
+
