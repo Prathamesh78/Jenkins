@@ -1,5 +1,4 @@
-# Jenkins ![Untitled](https://github.com/Prathamesh78/Jenkins/assets/104883046/bbff8242-b2ad-423f-b235-818836a2d2c5)
-
+# Jenkins 
 
 Jenkins stands as a pivotal open-source build orchestration tool within the realm of DevOps, facilitating the creation of comprehensive CI/CD pipelines. Its core function revolves around automating the build and deployment processes, streamlining workflows from code integration to delivery. Operating on a Master-Slave architecture, Jenkins efficiently distributes tasks across multiple nodes, optimizing resource utilization and enhancing scalability. One of its defining features is the Jenkins Pipeline, enabling the scripting of entire delivery pipelines using Groovy. With Jenkins, teams can seamlessly integrate various stages of software development, enabling rapid iteration, robust testing, and continuous delivery, ultimately fostering a culture of automation and efficiency within modern software development practices.
 
