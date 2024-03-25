@@ -49,8 +49,13 @@ chmod 600 /home/<user_name>/.ssh/authorized_keys
 chmod 700 /home/<user_name>/.ssh
 ```
 
-### 5. Set Ownership of Tomcat Directory
+### 5. Exit to the root directory
+
+### 6. Set Ownership of Tomcat Directory
 ```bash
 sudo chown -R <user_name> /opt/tomcat
 ```
 
+### 7. On Master Node 
+- Goto manage jenkins --> Plugins --> Avaliable Plugins - search for 'Publish Over SSH'  --> install and restart Jenkins
+- Goto Manage Jenkins --> System --> Publish Over SSH plugin for configuration.
